@@ -6,4 +6,4 @@ function runTest() {
     //git remote set-url origin git@github.com:kaitocodex/testingGit.git
 }
 
-runTest();
+runTest(); 
